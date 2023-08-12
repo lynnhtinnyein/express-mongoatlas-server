@@ -1,5 +1,5 @@
 {
-  "name": "mongo-server",
+  "name": "express-mongoatlas-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
